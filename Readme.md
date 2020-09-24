@@ -3,3 +3,5 @@
 3.Rebase commit:Apple feature
 4.Merge feaure:For amazon
 5.Only core features added
+1.Feature1 commits at core
+6.recipe included in core & rebase from amazon branch
