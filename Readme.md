@@ -7,3 +7,4 @@
 7.Added advanced features to core and rebased master to core
 8.Added test release 0.1
 9.Added test release 0.2
+10.Added qa release 0.2
