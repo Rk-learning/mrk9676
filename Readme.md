@@ -6,3 +6,4 @@
 6.recipe included in core & rebase from amazon branch
 7.Added advanced features to core and rebased master to core
 8.Added test release 0.1
+9.Added test release 0.2
