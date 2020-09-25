@@ -5,3 +5,4 @@
 5.Only core features added & Feature1 commits at core
 6.recipe included in core & rebase from amazon branch
 7.Added advanced features to core and rebased master to core
+8.Added test release 0.1
